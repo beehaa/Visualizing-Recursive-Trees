@@ -11,3 +11,5 @@ export FLASK_ENV = development
 
 flask run
 flask run --host=0.0.0.0 #to host from your IP address
+
+![0callgraph](https://user-images.githubusercontent.com/26440404/49846215-391f2980-fd98-11e8-9eed-981a790d914b.png)
