@@ -1,6 +1,10 @@
 # Visualizing-Recursive-Trees
 
-This project is to help visualize recursion by tracking recursive calls using a stack trace. Recursion could be a difficult concept to grasp and therefore this tool is meant to help those picture the tree. 
+This project is to help visualize recursion by tracking recursive calls using a stack trace. Recursion may be a difficult concept to grasp for beginners and therefore this tool is meant to help picture recursion trees.
+
+Web based application that allows users to choose from a list of recursive functions and give a valid input to render a picture of the recursive tree for that algorithm. 
+
+Application.py currently has predefined recursive functions to choose from, but it should work with any recursive function. 
 
 To run this: 
 
